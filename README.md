@@ -2,6 +2,10 @@
 
 I´m Luan, a Mobile Developer in Viet Nam
 
+Medium profile: https://medium.com/@luanhs
+
+Hackerrank profile: https://www.hackerrank.com/luanho192
+
 ## 🚀💻 Technologies & Tools
 
   ![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
