@@ -20,6 +20,6 @@ Hackerrank profile: https://www.hackerrank.com/luanho192
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 ## ⚡ GitHub Stats
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=LuanSiHo&theme=dark&show_icons=true)](https://github.com/LuanSiHo)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSiHo&layout=compact&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![LuanSiHo's github stats](https://github-readme-stats.vercel.app/api?username=LuanSiHo&theme=dark&show_icons=true)](https://github.com/LuanSiHo)
+[![LuanSiHo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSiHo&layout=compact&theme=dark&show_icons=true)](https://github.com/LuanSiHo)
 
