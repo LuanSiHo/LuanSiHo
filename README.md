@@ -2,9 +2,11 @@
 
 I´m Luan, a Mobile Developer in Viet Nam
 
-Medium profile: https://medium.com/@luanhs
+Medium Profile: https://medium.com/@luanhs
 
-Hackerrank profile: https://www.hackerrank.com/luanho192
+Hackerrank Profile: https://www.hackerrank.com/luanho192
+
+LeetCode Profile: https://leetcode.com/u/siluan192/
 
 ## 🚀💻 Technologies & Tools
 
