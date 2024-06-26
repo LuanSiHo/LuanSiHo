@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I´m Luan, a Mobile Developer in Viet Nam
+I´m Luan, a Mobile Developer in Vietnam
+
+Linkedin Profile: https://www.linkedin.com/in/hosiluan/
 
 Medium Profile: https://medium.com/@luanhs
 
